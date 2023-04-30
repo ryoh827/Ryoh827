@@ -35,9 +35,10 @@
 
 ### 📊 GitHub Stats:
 
-<img align="left" alt="Ryoh827's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&hide_border=true&theme=dark" />
 
-<br />
+<img align="left" alt="Ryoh827's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&hide_border=true&theme=dark" />　　
+
+<br/><br/><br/><br/><br/><br/>
 
 ### 📚 Top Languages:
 
