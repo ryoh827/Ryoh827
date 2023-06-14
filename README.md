@@ -33,16 +33,17 @@
 
 <br />
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 
+![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&theme=vue-dark)
 
-<img align="left" alt="Ryoh827's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&hide_border=true&theme=dark" />　　
+### 🏆 Trophy: 
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryoh827&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br /><br />
 
-### 📚 Top Languages:
+### 📚 Top Languages: 
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoh827&layout=compact&theme=dark" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoh827&layout=compact&theme=dark" /> <br /><br />
 
 <!--
 **Ryoh827/Ryoh827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
