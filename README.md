@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats: 
 
-![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&theme=vue-dark)
+![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&theme=dracula)
 
 ### 🏆 Trophy: 
 
