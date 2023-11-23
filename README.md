@@ -10,11 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoh827&size_weight=0.5&count_weight=0.5&theme=onedark)
 
+<!--
 ### 🏆 Trophy: 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryoh827&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br /><br />
 
-<!--
 **Ryoh827/Ryoh827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
