@@ -1,23 +1,6 @@
 ### Hi there, I'm Ryoh827! 👋
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning React, Node.js, Ruby, and Python
-- 👯 I’m looking to collaborate on open source projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing video games and lisning music.
-<!--
-- 📫 How to reach me: [Email](mailto:your_email@example.com)
--->
-
-<!--
-### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[twitter]: https://twitter.com/Ryoh827
-
-<br/>
-
--->
+![:Ryoh827](https://count.getloli.com/get/@ryoh827?theme=rule34)
 
 ### 📊 GitHub Stats: 
 
