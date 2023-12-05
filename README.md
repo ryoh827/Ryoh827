@@ -1,6 +1,9 @@
 ### Hi there, I'm Ryoh827! 👋
 
-![:Ryoh827](https://count.getloli.com/get/@ryoh827?theme=rule34)
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@ryoh827?theme=rule34"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@japan?v=1" align="right">
+</p>
 
 ### 📊 GitHub Stats: 
 
