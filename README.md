@@ -7,11 +7,11 @@
 
 ### 📊 GitHub Stats: 
 
-![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&show_icons=true&theme=onedark)
+![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### 📚 Top Languages: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoh827&size_weight=0.5&count_weight=0.5&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoh827&size_weight=0.5&count_weight=0.5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 <!--
 ### 🏆 Trophy: 
