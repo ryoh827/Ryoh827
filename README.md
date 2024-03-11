@@ -2,12 +2,11 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@ryoh827?theme=rule34"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@japan?v=1" align="right">
 </p>
 
 ### 📊 GitHub Stats: 
 
-![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Ryoh827's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryoh827&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_rank=true)
 
 ### 📚 Top Languages: 
 
