@@ -1,7 +1,7 @@
 ### Hi there, I'm Ryoh827! 👋
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@ryoh827?theme=gelbooru"></a>
+  <a href="https://count.chiya.dev/"><img src="https://count.chiya.dev/get/@ryoh827?theme=gelbooru"></a>
 </p>
 
 ### 📊 GitHub Stats: 
